@@ -11,7 +11,8 @@ Key Features:
 
 # 1. Project Setup
 ## 1.1 Clone the Repository
-`git clone https://github.com/sheshbazzarr/EthiopicBibleAPI.git`
+```git clone https://github.com/sheshbazzarr/EthiopicBibleAPI.git```
+
 `cd EthiopicBibleAPI`
 ## 1.2 Set Up a Virtual Environment
   `python -m venv env`
