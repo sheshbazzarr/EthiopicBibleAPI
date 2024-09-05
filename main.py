@@ -10,7 +10,7 @@ app = FastAPI(
     version="1.0.0"
 )
 
-DATA_DIR = "data/"
+DATA_DIR = "Books/"
 
 def load_book(book_name: str):
     file_path = os.path.join(DATA_DIR, f"{book_name.lower()}.json")
