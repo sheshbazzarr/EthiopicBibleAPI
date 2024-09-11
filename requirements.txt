@@ -1,4 +1,4 @@
-Python 3.8
+Python3
 FastAPI
 Uvicorn
 pydantic
