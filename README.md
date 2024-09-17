@@ -9,6 +9,12 @@ Key Features:
 - High performance and fast response times, leveraging the power of FastAPI.
 - Easy-to-use endpoints for smooth integration into various applications.
 
+- 
+## Watch the Demo
+
+[![Watch the Demo on YouTube](https://img.youtube.com/vi/oo6tStCSIeE/Img001.png)](https://www.youtube.com/watch?v=oo6tStCSIeE)
+
+
 # 1. Project Setup
 ## 1.1 Clone the Repository
 ```git clone https://github.com/sheshbazzarr/EthiopicBibleAPI.git```
