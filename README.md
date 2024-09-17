@@ -12,7 +12,8 @@ Key Features:
 - 
 ## Watch the Demo
 
-[![Watch the Demo on YouTube](https://img.youtube.com/vi/oo6tStCSIeE/Img001.png)](https://www.youtube.com/watch?v=oo6tStCSIeE)
+[![Watch the Demo on YouTube](https://img.youtube.com/vi/oo6tStCSIeE/0.jpg)](https://www.youtube.com/watch?v=oo6tStCSIeE)
+
 
 
 # 1. Project Setup
