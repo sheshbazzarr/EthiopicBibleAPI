@@ -12,7 +12,6 @@ The **EthiopicBibleAPI** is a FastAPI-based RESTful API designed to provide acce
 - [Contributing](#contributing)
 - [Related Projects](#related-projects)
 - [Licensing](#licensing)
-- [Resources](#resources)
 - [Screenshot](#screenshot)
 
 ## Project Name
@@ -80,7 +79,7 @@ Here are some example API requests:
   `GET /bible/verse?book=John&chapter=3&verse=16`
   
 - **Get a chapter**:  
-  `GET /bible/chapter?book=John&chapter=3`
+  `GET /bible/chapter_numbers?book=John&chapter=3`
   
 - **Get an entire book**:  
   `GET /bible/book?book=John`
@@ -114,7 +113,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Here’s a preview of the EthiopicBibleAPI in action:
 
-![Ethiopic Bible API Screenshot](./img001.png)  
+![Ethiopic Bible API Screenshot](./Img001.png)  
 *(Replace `screenshot.png` with the actual image path)*
 
 ## Watch the Demo
