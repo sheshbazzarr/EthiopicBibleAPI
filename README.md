@@ -28,13 +28,13 @@ The **EthiopicBibleAPI** provides developers with a simple, performant, and high
 
 ## Live Demo and Blog
 
-- **Live API Deployment**: [EthiopicBibleAPI Live](https://ethiopicbibleapi-2.onrender.com/docs)  
+- **Live API Deployment**: [EthiopicBibleAPI Live](https://ethiopicbibleapi-2.onrender.com/docs)
   *(Replace this with the actual deployment link)*
-- **Final Project Blog Article**: [How I Built EthiopicBibleAPI](https://medium.com/@danielendale/building-ethiopicbibleapi-a-fastapi-powered-restful-api-for-the-ethiopian-bible-abfab6abfe0d)  
+- **Final Project Blog Article**: [How I Built EthiopicBibleAPI](https://medium.com/@danielendale/building-ethiopicbibleapi-a-fastapi-powered-restful-api-for-the-ethiopian-bible-abfab6abfe0d)
   *(Replace this with the blog link)*
 
 ## Author
-- **Daniel Demerw **  
+- **Daniel Demerw **
   [LinkedIn](https://www.linkedin.com/in/danieldemerw)
 
 ## Installation
@@ -75,13 +75,13 @@ Visit `http://127.0.0.1:8000/docs` to access the automatically generated API doc
 
 Here are some example API requests:
 
-- **Get a specific Bible verse**:  
+- **Get a specific Bible verse**:
   `GET /bible/verse?book=John&chapter=3&verse=16`
-  
-- **Get a chapter**:  
+
+- **Get a chapter**:
   `GET /bible/chapter_numbers?book=John&chapter=3`
-  
-- **Get an entire book**:  
+
+- **Get an entire book**:
   `GET /bible/book?book=John`
 
 For more detailed documentation, visit the `/docs` or `/redoc` endpoints once the app is running.
@@ -102,7 +102,7 @@ All contributions are welcome, including bug fixes, new features, and documentat
 Here are a few similar or related projects that you might find interesting:
 
 - [Bible API](https://ethiopicbibleapi-2.onrender.com/docs)
-- [YouVersion Bible API](https://www.youversion.com/develo/)
+
 
 ## Licensing
 
@@ -113,7 +113,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Here’s a preview of the EthiopicBibleAPI in action:
 
-![Ethiopic Bible API Screenshot](./Img001.png)  
+![Ethiopic Bible API Screenshot](./Img001.png)
 *(Replace `screenshot.png` with the actual image path)*
 
 ## Watch the Demo
